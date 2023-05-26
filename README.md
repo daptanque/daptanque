@@ -11,7 +11,6 @@
 
 <h2 align='center'>
   
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daptanque&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/daptanque/github-readme-stats)
 </h2>
 
 
